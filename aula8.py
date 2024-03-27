@@ -2,7 +2,7 @@ nome = "Wellington"
 sobrenome = "Santos"
 idade = 22
 ano_nascimento = "28/03/2002"
-maior_de_idade = idade > 18
+maior_de_idade = idade >= 18
 altura_em_metros = 1.73
 
 print("Nome:", nome)
